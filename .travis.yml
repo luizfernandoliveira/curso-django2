@@ -16,4 +16,4 @@ install:
 
 scripts:
   - pipenv run flake8 .
-  -
+  - pipenv run pytest
