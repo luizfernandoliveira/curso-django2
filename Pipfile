@@ -4,12 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "*"
 gunicorn = "*"
 pytest-django = "*"
 python-decouple = "*"
 dj-database-url = "*"
 remind = "*"
+django = "==3.2.12"
 
 [dev-packages]
 flake8 = "*"
