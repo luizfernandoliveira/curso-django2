@@ -10,6 +10,7 @@ python-decouple = "*"
 dj-database-url = "*"
 remind = "*"
 django = "==3.2.12"
+psycopg2 = "*"
 
 [dev-packages]
 flake8 = "*"
