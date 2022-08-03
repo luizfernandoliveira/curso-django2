@@ -1,27 +1,27 @@
 [[source]]
+name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
-name = "pypi"
-
-[packages]
-gunicorn = "*"
-pytest-django = "*"
-python-decouple = "*"
-dj-database-url = "*"
-remind = "*"
-django = "==3.2.12"
-psycopg2 = "*"
-psycopg2-binary = "*"
-django-s3-folder-storage = "*"
-collectfast = "*"
-django-debug-toolbar = "*"
-sentry-sdk = "*"
 
 [dev-packages]
-flake8 = "*"
-pytest-cov = "*"
 codecov = "*"
 coverage = "*"
+flake8 = "*"
+pytest-cov = "*"
+
+[packages]
+collectfast = "*"
+dj-database-url = "*"
+django = "==4.1"
+django-debug-toolbar = "*"
+django-s3-folder-storage = "*"
+gunicorn = "*"
+psycopg2 = "*"
+psycopg2-binary = "*"
+pytest-django = "*"
+python-decouple = "*"
+remind = "*"
+sentry-sdk = "*"
 
 [requires]
 python_version = "*"
