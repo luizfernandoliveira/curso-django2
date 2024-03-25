@@ -356,10 +356,8 @@
             "version": "==1.26.9"
         },
         "vobject": {
-            "hashes": [
-                "sha256:96512aec74b90abb71f6b53898dd7fe47300cc940104c4f79148f0671f790101"
-            ],
-            "version": "==0.9.6.1"
+            "hashes": [],
+            "version": "==0.9.7"
         }
     },
     "develop": {
