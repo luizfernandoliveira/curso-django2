@@ -292,12 +292,8 @@
             "version": "==2021.3"
         },
         "remind": {
-            "hashes": [
-                "sha256:141f37d6f8bd569cba749e4744e47c72fe4215af4f0f8a7016bbbad839ddf8a9",
-                "sha256:7f5bb7bfa6b29c90a4550f7cdd83925f7dbeb288b6cd92d6bb2f9651b0ff51d7"
-            ],
-            "index": "pypi",
-            "version": "==0.18.0"
+            "hashes": [],
+            "version": "==0.19.0"
         },
         "s3transfer": {
             "hashes": [
